@@ -1,0 +1,16 @@
+{
+  "name": "ol3-compiled",
+  "version": "3.12.0",
+  "description": "Build tools and sources for developing OpenLayers based mapping applications",
+
+  "main": "build/ol.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sathishatnet/ol3-compiled.git"
+  },
+  "license": "MIT"
+  "browser": "build/ol.js",
+  "style": [
+    "build/ol.css"
+  ]
+}
