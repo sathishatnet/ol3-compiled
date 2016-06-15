@@ -1,6 +1,6 @@
 {
   "name": "ol3-compiled",
-  "version": "3.12.0",
+  "version": "3.13.0",
   "description": "Build tools and sources for developing OpenLayers based mapping applications",
 
   "main": "build/ol.js",
